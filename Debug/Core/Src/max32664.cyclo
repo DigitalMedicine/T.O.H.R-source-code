@@ -1,0 +1,17 @@
+max32664.c:7:6:mfio	1
+max32664.c:25:9:begin	2
+max32664.c:82:9:read_status	2
+max32664.c:102:9:write	2
+max32664.c:124:9:enable_write	2
+max32664.c:144:9:read	4
+max32664.c:171:9:set_device_mode	5
+max32664.c:192:9:get_device_mode	1
+max32664.c:207:9:set_output_mode	2
+max32664.c:221:9:get_output_mode	1
+max32664.c:231:9:MAX30101_enable	2
+max32664.c:248:9:get_number_of_samples_FIFO	1
+max32664.c:258:9:AGC_enable	2
+max32664.c:273:9:MaximFast_enable	2
+max32664.c:291:9:set_fifo_threshold	1
+max32664.c:305:9:config_sensor	6
+max32664.c:330:9:read_sensor	3

@@ -1,0 +1,10 @@
+max_lib.c:30:6:max_init	1
+max_lib.c:39:6:max_setup	1
+max_lib.c:64:6:get_max	1
+max_lib.c:75:5:hr_analysis	7
+max_lib.c:112:5:ox_analysis	6
+max_lib.c:150:6:max_loop	6
+max_lib.c:179:6:print_max	1
+max_lib.c:191:6:print_hr_status	3
+max_lib.c:237:6:print_ox_status	3
+max_lib.c:282:6:print_breathe	1

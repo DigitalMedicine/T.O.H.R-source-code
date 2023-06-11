@@ -1,0 +1,17 @@
+../Core/Src/max32664.c:7:6:mfio	40	static
+../Core/Src/max32664.c:25:9:begin	24	static
+../Core/Src/max32664.c:82:9:read_status	24	static
+../Core/Src/max32664.c:102:9:write	32	static
+../Core/Src/max32664.c:124:9:enable_write	32	static
+../Core/Src/max32664.c:144:9:read	32	static
+../Core/Src/max32664.c:171:9:set_device_mode	24	static
+../Core/Src/max32664.c:192:9:get_device_mode	24	static
+../Core/Src/max32664.c:207:9:set_output_mode	24	static
+../Core/Src/max32664.c:221:9:get_output_mode	24	static
+../Core/Src/max32664.c:231:9:MAX30101_enable	24	static
+../Core/Src/max32664.c:248:9:get_number_of_samples_FIFO	24	static
+../Core/Src/max32664.c:258:9:AGC_enable	24	static
+../Core/Src/max32664.c:273:9:MaximFast_enable	24	static
+../Core/Src/max32664.c:291:9:set_fifo_threshold	24	static
+../Core/Src/max32664.c:305:9:config_sensor	16	static
+../Core/Src/max32664.c:330:9:read_sensor	64	static

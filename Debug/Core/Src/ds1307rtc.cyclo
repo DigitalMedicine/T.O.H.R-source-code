@@ -1,0 +1,5 @@
+ds1307rtc.c:37:9:bcd2Dec	1
+ds1307rtc.c:49:9:dec2Bcd	1
+ds1307rtc.c:55:8:ds1307rtc_get_date_time	4
+ds1307rtc.c:89:8:ds1307rtc_set_date_time	2
+ds1307rtc.c:119:8:ds1307rtc_init	2
